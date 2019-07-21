@@ -1,0 +1,15 @@
+{
+  "name": "iron-mern-generator",
+  "version": "1.0.0",
+  "description": "MERN generator for Ironhack",
+  "main": "bin/index.js",
+  "preferGlobal": true,
+  "author": "Maxence Bouret <maxence.bouret@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "iron-mern-generator": "./bin/index.js"
+  },
+  "devDependencies": {
+    "child_process": "^1.0.2"
+  }
+}
